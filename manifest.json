@@ -1,10 +1,10 @@
 {
-  "id": "obsidian-local-images",
-  "name": "Local images",
+  "id": "obsidian-local-images-cn",
+  "name": "图片本地化",
   "version": "0.14.2",
   "minAppVersion": "0.12.15",
-  "description": "Local Images plugin finds all links to external images in your notes, then downloads and saves images locally, and finally adjusts the image links in your notes to point to the saved image files.",
-  "author": "catalysm, aleksey-rezvov",
-  "authorUrl": "https://github.com/aleksey-rezvov/obsidian-local-images",
+  "description": "搜索笔记中的图像，下载保存在本地。",
+  "author": "catalysm, aleksey-rezvov, shileiye（汉化完善）",
+  "authorUrl": "https://github.com/shileiye/obsidian-local-images-cn",
   "isDesktopOnly": true
 }
